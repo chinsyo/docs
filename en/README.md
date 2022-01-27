@@ -1,0 +1,1 @@
+*This website is based on [Docsify](https://docsify.js.org), hosted on the [GitHub](https://github.com/chinsyo/docs), pull requests are welcome.*

@@ -1,0 +1,3 @@
+- Quick Start
+  - [README](en/README.md)
+  - [Privacy Policy](en/privacy.md)

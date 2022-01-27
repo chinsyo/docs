@@ -1,0 +1,3 @@
+- 快速开始
+  - [README](README.md)
+  - [隐私政策](privacy.md)
